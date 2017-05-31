@@ -1,0 +1,8 @@
+{
+  "name": "footsoccer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lhas/footsoccer.git",
+  "author": "lhas <luizhrqas@gmail.com>",
+  "license": "MIT"
+}
