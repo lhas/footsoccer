@@ -10,7 +10,6 @@ program
   .description('get team information')
   .action(async (team, options) => {
     const response = await InfoService.parse(team);
-    console.log(response);
   });
 
 program.parse(process.argv);
